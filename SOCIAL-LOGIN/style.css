@@ -1,0 +1,75 @@
+.right-container{
+    background-image: url("https://brandio.io/envato/iofrm/html/images/graphic16.svg");
+    height: 100vh;
+    width: 100vh;
+}
+
+.left-container{
+    height: 100vh;
+    text-align: center;
+}
+
+.left-container .form-container{
+    width: 70%;
+}
+
+.logo-img{
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+.login-sub-heading{
+    font-size: 24px;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+}
+
+.login-sub-para{
+    font-family: inherit;
+    font-size: 18px;
+    color: rgb(104, 104, 104);
+    font-weight: 200;
+}
+
+.login-input{
+    font-family: inherit;
+    background-color: #F7F7F7;
+    border: 0px;
+    text-align: left;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    height: 16%;
+    color: rgb(79, 79, 79);
+}
+
+.login-button{
+    background-color: #E6798F;
+    border: 0px;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 6px 28px;
+    margin-right: 10px;
+    width: 50%;
+}
+
+.create-button{
+    border: 1px solid #d66f83;
+    width: 50%;
+    border-radius: 5px;
+    font-weight: 700;
+    color: #E6798F;
+    font-size: 14px;
+    padding: 6px 28px;
+    background-color: transparent;
+}
+
+.icon{
+    font-size: x-large;
+    color: #005af5;
+    margin-right: 20px;
+}
+
